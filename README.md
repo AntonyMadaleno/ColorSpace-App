@@ -11,6 +11,7 @@ Application web d'analyse et segmentation couleur, avec:
 - `backend/app/services/`: traitement image, conversions, distributions, segmentation
 - `frontend/src/App.tsx`: orchestration UI
 - `frontend/src/components/`: modules (upload, distributions, segmentation)
+- Dont forget to unzip node_modules in frontend
 
 ## Lancement
 
